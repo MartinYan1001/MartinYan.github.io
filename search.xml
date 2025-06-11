@@ -4,13 +4,146 @@
   
     
     <entry>
-      <title>Hello World</title>
-      <link href="/MartinYan.github.io/2025/06/08/hello-world/"/>
-      <url>/MartinYan.github.io/2025/06/08/hello-world/</url>
+      <title>Four whole times!</title>
+      <link href="/MartinYan.github.io/2025/06/10/times/"/>
+      <url>/MartinYan.github.io/2025/06/10/times/</url>
       
-        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><pre><code class="bash">$ hexo new &quot;My New Post&quot;</code></pre><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><pre><code class="bash">$ hexo server</code></pre><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><pre><code class="bash">$ hexo generate</code></pre><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><pre><code class="bash">$ hexo deploy</code></pre><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+        <content type="html"><![CDATA[<h2 id="😎So-now-you-know-that-I’m-still-alive-and-I’m-still-working-on-this-blog"><a href="#😎So-now-you-know-that-I’m-still-alive-and-I’m-still-working-on-this-blog" class="headerlink" title="😎So,now you know that I’m still alive, and I’m still working on this blog."></a>😎So,now you know that I’m still alive, and I’m still working on this blog.</h2>]]></content>
       
       
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Third time&#39;s the charm!</title>
+      <link href="/MartinYan.github.io/2025/06/09/Three%20times%20a%20charm!/"/>
+      <url>/MartinYan.github.io/2025/06/09/Three%20times%20a%20charm!/</url>
+      
+        <content type="html"><![CDATA[<h2 id="😈This-is-my-third-blog"><a href="#😈This-is-my-third-blog" class="headerlink" title="😈This is my third blog!"></a>😈This is my third blog!</h2>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Here we go again!</title>
+      <link href="/MartinYan.github.io/2025/06/09/Here%20we%20go%20again!/"/>
+      <url>/MartinYan.github.io/2025/06/09/Here%20we%20go%20again!/</url>
+      
+        <content type="html"><![CDATA[<h2 id="🤟This-is-my-second-blog"><a href="#🤟This-is-my-second-blog" class="headerlink" title="🤟This is my second blog!"></a>🤟This is my second blog!</h2>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Hello Blog!</title>
+      <link href="/MartinYan.github.io/2025/06/08/Hello%20Blog!/"/>
+      <url>/MartinYan.github.io/2025/06/08/Hello%20Blog!/</url>
+      
+        <content type="html"><![CDATA[<h2 id="👋This-is-my-first-blog"><a href="#👋This-is-my-first-blog" class="headerlink" title="👋This is my first blog."></a>👋This is my first blog.</h2>]]></content>
+      
+      
+      <categories>
+          
+          <category> Technology </category>
+          
+          <category> Life </category>
+          
+          <category> Travel </category>
+          
+          <category> Food </category>
+          
+          <category> Movie </category>
+          
+          <category> Music </category>
+          
+          <category> Game </category>
+          
+          <category> Sport </category>
+          
+          <category> Science </category>
+          
+          <category> History </category>
+          
+          <category> Culture </category>
+          
+          <category> Politics </category>
+          
+          <category> Economy </category>
+          
+          <category> Education </category>
+          
+          <category> Law </category>
+          
+          <category> Medicine </category>
+          
+          <category> Psychology </category>
+          
+          <category> Philosophy </category>
+          
+          <category> Religion </category>
+          
+          <category> Art </category>
+          
+          <category> Design </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> C </tag>
+            
+            <tag> Music </tag>
+            
+            <tag> Python </tag>
+            
+            <tag> Java </tag>
+            
+            <tag> C++ </tag>
+            
+            <tag> HTML </tag>
+            
+            <tag> CSS </tag>
+            
+            <tag> JavaScript </tag>
+            
+            <tag> PHP </tag>
+            
+            <tag> SQL </tag>
+            
+            <tag> Linux </tag>
+            
+            <tag> Windows </tag>
+            
+            <tag> Android </tag>
+            
+            <tag> iOS </tag>
+            
+            <tag> Machine Learning </tag>
+            
+            <tag> Deep Learning </tag>
+            
+            <tag> Artificial Intelligence </tag>
+            
+            <tag> Data Science </tag>
+            
+            <tag> Big Data </tag>
+            
+            <tag> Cloud Computing </tag>
+            
+            <tag> Internet of Things </tag>
+            
+            <tag> Blockchain </tag>
+            
+        </tags>
       
     </entry>
     
